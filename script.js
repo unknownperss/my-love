@@ -2,7 +2,7 @@ function showYesMessage() {
     document.getElementById("messageText").innerText = 
         "YAYYY IM SO HAPPY YOU DESERVE TO FEEL AMAZINGG also this is lit rally us";
     document.getElementById("messageGif").src = 
-        "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb253NHV4MzAyOWxzOHU2N3l5cGhhZmN1a2RjeDBrNzZjZ21oYWRyMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4rONkkYKUUDe0/giphy.gif";
+        "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2h4dTlrdmtnNmg1bHlnNXkwYWpzcjR4aXBpcWgwd3JlZzN0aHhxaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7nVxy5Npn3ARFPtjgv/giphy.gif";
     
     // Hide buttons and show message
     document.querySelector(".buttons").style.display = "none";
