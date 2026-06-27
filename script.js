@@ -1,6 +1,6 @@
 function showYesMessage() {
     document.getElementById("messageText").innerText = 
-        "YAYYY IM SO HAPPY YOU DESERVE TO FEEL AMAZINGG also this is lit rally us";
+        "YAYYY IM SO HAPPY YOU DESERVE TO FEEL AMAZINGG please only ever be happy you deseerve to only feel happiness i love you my baby. i love your eyes your nose your eyebrows your laugh your smile your hair your skin your nose again your beauitful green eyes your face shape your chest your arms your legs your back your stomach your peenar your everything my handsome boy also this is lit rally us";
     document.getElementById("messageGif").src = 
         "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2h4dTlrdmtnNmg1bHlnNXkwYWpzcjR4aXBpcWgwd3JlZzN0aHhxaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7nVxy5Npn3ARFPtjgv/giphy.gif";
     
