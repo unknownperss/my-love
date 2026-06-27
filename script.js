@@ -11,7 +11,7 @@ function showYesMessage() {
 
 function showNoMessage() {
     document.getElementById("messageText").innerText = 
-        "Im so sorry you don't feel well:( You deserve to feel amazing because you're the most amazing person ever. No one compares to you. I love you and I always will even if you make mistakes. Even when you don't feel your best and when youre overthinking.  I'll always be here for you when you need me. You never annoy me. I love everything you do. I love when you say anything. Stay safe my love <3";
+        "Im so sorry you don't feel well:( You deserve to feel amazing because you're the most amazing person ever. No one compares to you. I love you and I always will even if you make mistakes. Even when you don't feel your best and when youre overthinking. ypure my baby. youre my heart youre my soul. youre my umiverse. youre my world . yoire my everything You never annoy me. I love everything you do. I love when you say anything.please meber give up i always believe im you baby please keep every promise i love you forrver my ivan. im sorry you feel this way bbay i oray you never feel sad ever again. send me brain signals i send them to you everyday i lobe you much my baby  Stay safe my love <3";
     document.getElementById("messageGif").src = 
         "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmQxZTg3aHE5N3UwejlncjZ5c3luenQ0ZGc2dWZ0a25jdThndzBzOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eKfpB6WZeKC1DiGrj8/giphy.gif";
     
